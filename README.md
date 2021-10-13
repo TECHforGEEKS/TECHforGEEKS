@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TECHforGEEKS
+- 👋 Hi, I’m @Shiro
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Java, Python, C++, C#, C, Swift, JS, html
 - 💞️ I’m looking to collaborate on ...
