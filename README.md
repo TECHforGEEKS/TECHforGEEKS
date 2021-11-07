@@ -1,6 +1,7 @@
 # Hey There 👋👋, I'm Shiro
 
 ### Some Details About Me
+  😀 I'm @Shiro
 - 👀 I’m interested in Programming and Web Developing
 - 🌱 I’m currently learning web development and programming
 - 💞️ Currently I'm working on my own projects.
