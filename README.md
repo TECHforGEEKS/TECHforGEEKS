@@ -1,13 +1,13 @@
-- 👋 Hi, I’m @Shiro
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java, Python, C++, C#, C, Swift, JS, html
-- 📫 How to reach me https://oshadhashiro.netlify.app/  or  0766810433 whatsapp number
+# Hi..! I'm Shiro
 
-### Profile Views :<br>
-  <img src="https://profile-counter.glitch.me/TECHforGEEKS/count.svg" />-
-
+### Some Details About Me
+- 👀 I’m interested in Programming and Web Developing
+- 🌱 I’m currently learning web development and programming
+- 💞️ Currently I'm working on my own projects.
+- 📫 How to reach me https://oshadhashiro.netlify.app/
+- 
 ### Some Technologies and Tools I Use
-<img src="https://img.shields.io/badge/java%20-%2300599C.svg?&style=for-the-badge&logo"> <img src="https://img.shields.io/badge/javaFX%20-%2300599C.svg?&style=for-the-badge&logo"> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo"> <img src="https://img.shields.io/badge/python%20-%2300599C.svg?&style=for-the-badge&logo"> <img src="https://img.shields.io/badge/android%20-%2300599C.svg?&style=for-the-badge&logo"> <img src="https://img.shields.io/badge/html%20-%2300599C.svg?&style=for-the-badge&logo"> <img src="https://img.shields.io/badge/css%20-%2300599C.svg?&style=for-the-badge&logo"> <img src="https://img.shields.io/badge/javascript%20-%2300599C.svg?&style=for-the-badge&logo"> <img src="https://img.shields.io/badge/React%20-%2300599C.svg?&style=for-the-badge&logo"> <img src="https://img.shields.io/badge/Node.js%20-%2300599C.svg?&style=for-the-badge&logo">
+<img src="https://img.shields.io/badge/java%20-%2300599C.svg?&style=for-the-badge&logo"> <img src="https://img.shields.io/badge/javaFX%20-%2300599C.svg?&style=for-the-badge&logo"> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo"> <img src="https://img.shields.io/badge/python%20-%2300599C.svg?&style=for-the-badge&logo"> <img src="https://img.shields.io/badge/android%20-%2300599C.svg?&style=for-the-badge&logo"> <img src="https://img.shields.io/badge/html%20-%2300599C.svg?&style=for-the-badge&logo"> <img src="https://img.shields.io/badge/css%20-%2300599C.svg?&style=for-the-badge&logo"> <img src="https://img.shields.io/badge/javascript%20-%2300599C.svg?&style=for-the-badge&logo">
 
 
 
