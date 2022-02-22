@@ -5,7 +5,7 @@
   <img src="https://profile-counter.glitch.me/TECHfoGEEKS/count.svg" />
 
 ### Some Details About Me
-- 😀 I’m @Shiro.
+- 😀 I’m @oshadhashiro404.
 - 👀 I’m interested in Programming and Web Developing..
 - 🌱 I’m currently learning web development and programming.
 - 💞️ Currently I'm working on my own projects.
