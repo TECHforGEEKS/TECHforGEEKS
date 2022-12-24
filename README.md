@@ -2,7 +2,10 @@
 
 
 ### Profile Views :<br>
-  <img src="https://profile-counter.glitch.me/TECHfoGEEKS/count.svg" />
+  <img src="https://profile-counter.glitch.me/TECHfoGEEKS/count.svg" /><br>
+  
+### Coding Time :
+[![wakatime](https://wakatime.com/badge/user/e4c0e614-a05f-4ee4-8a9e-bee064b230b3.svg)](https://wakatime.com/@e4c0e614-a05f-4ee4-8a9e-bee064b230b3)
 
 ### Some Details About Me
 - 😀 I’m @Shiro.
