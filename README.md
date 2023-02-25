@@ -22,12 +22,12 @@
 | <a href="https://github.com/oshadhashiro404?tab=stars"><img align="center" src="https://github-readme-stats.vercel.app/api?username=oshadhashiro404&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Oshadha Shiro's github stats" /></a> | <a href="https://github.com/oshadhashiro404?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshadhashiro404&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-### My Contribution Graph
+###
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=oshadhashiro404&bg_color=000000&color=5ba4d2&line=154fc1&point=4991d0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### My Ranking 🏆
 
-<a href="https://stardev.io/developers/oshadhashiro404"><img width="450" alt="Check out oshadhashiro404's profile on stardev.io" src="https://stardev.io/developers/oshadhashiro404/badge/languages/global.svg" /></a> <a href="https://stardev.io/developers/oshadhashiro404"><img  width="450" alt="Check out oshadhashiro404&apos;s profile on stardev.io" src="https://stardev.io/developers/oshadhashiro404/badge/languages/country.svg" /></a>
+<a href="https://stardev.io/developers/oshadhashiro404"><img width="400" alt="Check out oshadhashiro404's profile on stardev.io" src="https://stardev.io/developers/oshadhashiro404/badge/languages/global.svg" /></a> <a href="https://stardev.io/developers/oshadhashiro404"><img  width="400" alt="Check out oshadhashiro404&apos;s profile on stardev.io" src="https://stardev.io/developers/oshadhashiro404/badge/languages/country.svg" /></a>
 ![](https://hit.yhype.me/github/profile?user_id=91681163) 
 <a  href="https://stardev.io/developers/oshadhashiro404"><img align="center" width="500" alt="Check out oshadhashiro404&apos;s profile on stardev.io" src="https://stardev.io/developers/oshadhashiro404/badge/languages/locality.svg" /></a>
 
