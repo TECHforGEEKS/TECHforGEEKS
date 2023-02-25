@@ -8,7 +8,7 @@
 [![wakatime](https://wakatime.com/badge/user/e4c0e614-a05f-4ee4-8a9e-bee064b230b3.svg)](https://wakatime.com/@e4c0e614-a05f-4ee4-8a9e-bee064b230b3)
 
 ### Some Details About Me
-- 😀 I’m @Shiro.
+- 😀 I’m @Oshadha.
 - 👀 I’m interested in Programming and Web Developing..
 - 🌱 I’m currently learning web development and programming.
 - 💞️ Currently I'm working on my own projects.
@@ -21,6 +21,9 @@
 
 | <a href="https://github.com/oshadhashiro404?tab=stars"><img align="center" src="https://github-readme-stats.vercel.app/api?username=oshadhashiro404&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Oshadha Shiro's github stats" /></a> | <a href="https://github.com/oshadhashiro404?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshadhashiro404&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
----
 
-![](https://hit.yhype.me/github/profile?user_id=91681163)
+### My Ranking 🏆
+
+<a href="https://stardev.io/developers/oshadhashiro404"><img width="450" alt="Check out oshadhashiro404's profile on stardev.io" src="https://stardev.io/developers/oshadhashiro404/badge/languages/global.svg" /></a> <a href="https://stardev.io/developers/oshadhashiro404"><img  width="450" alt="Check out oshadhashiro404&apos;s profile on stardev.io" src="https://stardev.io/developers/oshadhashiro404/badge/languages/country.svg" /></a>
+![](https://hit.yhype.me/github/profile?user_id=91681163) 
+<a  href="https://stardev.io/developers/oshadhashiro404"><img align="center" width="500" alt="Check out oshadhashiro404&apos;s profile on stardev.io" src="https://stardev.io/developers/oshadhashiro404/badge/languages/locality.svg" /></a>
